@@ -1,7 +1,7 @@
  👋 Hi, I’m @0thferr
 - 👀 I’m interested in Javascript, Python, Golang, Ruby, Scala, C&C++, HTML
 - 🌱 I’m currently learning Computer Engineering - Salesian University Center of São Paulo
-- 💞️ I’m looking to collaborate on projects devops
+- 💞️ I’m looking to collaborate on projects devops adn study groups
 - 📫 How to reach me; thais.ferreira07@outlook.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like Literature, games, and animals
