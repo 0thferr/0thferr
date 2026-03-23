@@ -1,43 +1,57 @@
 # 👋 Olá, eu sou a Thaís (@0thferr)
 
-💻 **Engenharia da Computação** – Salesian University Center of São Paulo  
-🚀 Desenvolvedora Full-Stack Júnior, apaixonada por tecnologia, inovação e DevOps  
+💻 **Software Engineer | Full Stack**
+🎓 Engenharia da Computação – UNISAL
+
+Construo aplicações web escaláveis, APIs e soluções com foco em performance, automação e IA. Experiência prática com backend, frontend e deploy em produção.
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens**: JavaScript, Python, C, C++, HTML, CSS  
-- **Frameworks**: Vue, React, Node.js, Express, Flask  
-- **Banco de Dados**: MySQL, MongoDB, ChromaDB  
-- **DevOps**: Docker, Kubernetes, CI/CD, GitHub Actions  
-- **Outros**: OpenCV, YOLO, PowerBI  
+
+* **Linguagens**: JavaScript, TypeScript, Python, C, C++
+* **Frontend**: React, Vue, HTML, CSS
+* **Backend**: Node.js, Express, Flask
+* **Banco de Dados**: MySQL, MongoDB, ChromaDB
+* **DevOps**: Docker, Kubernetes, CI/CD, GitHub Actions
+* **Cloud**: AWS *(em estudo)*
+* **Outros**: OpenCV, YOLO, Firebase, Power BI
 
 ---
-## 🌱 O que estou aprendendo
-- Golang, Ruby, Scala  
-- Integração de IA generativa em aplicações reais  
-- Boas práticas de automação com Docker e Kubernetes  
+
+## 🚀 Experiência relevante
+
+* Desenvolvimento de **APIs REST** e aplicações web completas
+* Implementação de **autenticação (Firebase)**
+* Projetos com **reconhecimento facial e visão computacional**
+* Containerização e deploy com **Docker + CI/CD**
+* Otimização de performance (incluindo uso de GPU/CUDA)
+
+---
+
+## 🌱 Atualmente estudando
+
+* **AWS (Cloud / Solutions Architect)**
+* Integração de **IA generativa** em aplicações reais
+* Arquitetura e automação com **Kubernetes**
 
 ---
 
 ## 🤝 Colaboração
-Estou aberta para colaborar em:  
-- Projetos **DevOps**  
-- **Estudos em grupo** e troca de conhecimento  
-- Projetos **Full-Stack** desafiadores  
+
+Aberta para:
+
+* Projetos **Full Stack**
+* **DevOps / Cloud**
+* Projetos com **IA e visão computacional**
 
 ---
 
-## 📫 Como me encontrar
-- 📧 [thais.ferreira07@outlook.com](mailto:thais.ferreira07@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tha%C3%ADs-silva-ferreira-b1b6b61a4/)  
+## 📫 Contato
+
+* 📧 [thais.ferreira07@outlook.com](mailto:thais.ferreira07@outlook.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/tha%C3%ADs-silva-ferreira-b1b6b61a4/)
 
 ---
 
-⭐ Se curtiu meus projetos, não esquece de deixar uma estrela!  
-
-
-<!---
-0thferr/0thferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Curtiu algum projeto? Deixa uma estrela.
