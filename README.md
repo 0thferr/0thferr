@@ -10,52 +10,61 @@ Desenvolvo aplicações web, APIs e soluções inteligentes com foco em escalabi
 
 # 🔧 Tecnologias & Ferramentas
 
-## Linguagens
-- Python
-- JavaScript
-- TypeScript
-- C
-- C++
+Python • JavaScript • TypeScript • C • C++ • React • Vue.js • HTML • CSS • Node.js • Express.js • Flask • MySQL • MongoDB • ChromaDB • Docker • Kubernetes • CI/CD • GitHub Actions • GitLab CI • Firebase • Git • Power BI • Linux Ubuntu • OpenCV • YOLO • Machine Learning • IA Generativa • LLMs • RAG • Prompt Engineering • Embeddings
 
-## Frontend
-- React
-- Vue.js
-- HTML
-- CSS
+---
 
-## Backend
-- Node.js
-- Express.js
-- Flask
+# 🚀 Experiência
 
-## IA & Machine Learning
-- IA Generativa
-- LLMs
-- RAG
-- Prompt Engineering
-- Embeddings
-- OpenCV
-- YOLO
-- Machine Learning
+## Desenvolvimento Full Stack
+- Desenvolvimento de aplicações web completas
+- Construção de APIs REST
+- Integração entre sistemas e serviços
+- Implementação de autenticação com Firebase
 
-## Banco de Dados
-- MySQL
-- MongoDB
-- ChromaDB
+## Inteligência Artificial
+- Projetos com visão computacional
+- Reconhecimento facial
+- Aplicações com IA Generativa
+- Estudos e implementação de sistemas com LLMs e RAG
 
-## DevOps & Infraestrutura
-- Docker
+## DevOps & Performance
+- Containerização com Docker
+- Pipelines CI/CD
+- Deploy em produção
+- Otimização de performance com CUDA/GPU
+
+---
+
+# 🌱 Atualmente estudando
+
+- IA Generativa e aplicações com LLMs
+- LangChain e sistemas RAG
+- Engenharia de Agentes
+- AWS Cloud
 - Kubernetes
-- CI/CD
-- GitHub Actions
-- GitLab CI
+- MLOps e LLMOps
+- Aplicações multimodais
 
-## Ferramentas
-- Firebase
-- Git
-- Power BI
-- Linux Ubuntu
+---
 
+# 🤝 Interesse em colaborar
+
+- Projetos Full Stack
+- IA Generativa
+- Machine Learning
+- NLP
+- Sistemas com LLMs
+- DevOps & Cloud
+- Visão Computacional
+
+---
+
+# 📫 Contato
+
+📍 Paulínia - SP  
+📧 th.ferr05@gmail.com  
+💼 LinkedIn  
 ---
 
 # 🚀 Experiência
