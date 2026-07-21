@@ -117,5 +117,7 @@ Atualmente sou pós-graduanda em **IA Generativa e Aplicações com LLMs** pela 
 # 📫 Contato
 
 📧 **E-mail:** th.ferr05@gmail.com
+
 💼 **LinkedIn:** linkedin.com/in/thaís-ferreira-b1b6b61a4
+
 🐙 **GitHub:** https://github.com/0thferr
