@@ -4,7 +4,7 @@
   <a href="https://github.com/0thferr">
     <img src="https://img.shields.io/badge/GitHub-0thferr-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:th.ferr05@gmail.com">
+  <a href="gmail:th.ferr05@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Location-Paulínia%20%7C%20SP-0A66C2?style=for-the-badge">
